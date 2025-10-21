@@ -3,7 +3,7 @@
 
 import 'package:flutter_test/flutter_test.dart';
 import 'package:twym_mobile_app/app/app.dart';
-import 'package:twym_mobile_app/counter/counter.dart';
+import 'package:twym_mobile_app/features/counter/view/counter_page.dart';
 
 void main() {
   group('App', () {
